@@ -59,7 +59,7 @@ extension SegementSlideViewController {
         } else {
             automaticallyAdjustsScrollViewInsets = false
         }
-        scrollView.backgroundColor = .white
+        scrollView.backgroundColor = .clear
         scrollView.showsHorizontalScrollIndicator = false
         scrollView.showsVerticalScrollIndicator = false
         scrollView.isPagingEnabled = false
